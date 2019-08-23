@@ -8,4 +8,4 @@ Language and Platforms used in it:
 - HTML,CSS
 - MYSQL
 
-For any query : fardinabir@gamil.com
+For any query : fardinabir@gmail.com
